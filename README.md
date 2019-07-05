@@ -1,4 +1,3 @@
 # QT-creator
 
-
 Raspberry PI
